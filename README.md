@@ -22,7 +22,7 @@ XPT2046_Touchscreen    version 1.4<br>
 Arduino ESP32 Boards   Version 2.0.13<br>
 
 
-#Specifications
+# Specifications
 
 Working voltage 4.75-5.25V
 <br>
