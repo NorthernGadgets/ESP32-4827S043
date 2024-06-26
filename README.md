@@ -12,7 +12,9 @@ Functions to interface with an SD card for data storage and retrieval.
 
 # Required Libraries
 
-Arduino_GFX_Library    version 1.4.7
-XPT2046_Touchscreen    version 1.4
 
-Arduino ESP32 Boards   Version 2.0.13
+Arduino_GFX_Library    version 1.4.7<br>
+<br>
+XPT2046_Touchscreen    version 1.4<br>
+<br>
+Arduino ESP32 Boards   Version 2.0.13<br>
